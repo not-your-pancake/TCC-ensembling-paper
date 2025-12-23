@@ -1,0 +1,6 @@
+{
+    "dataWrangler.outputRenderer.enabledTypes": {
+        "pandas.core.frame.DataFrame": false,
+        "pandas.core.series.Series": false
+    }
+}
